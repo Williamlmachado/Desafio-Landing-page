@@ -126,17 +126,17 @@
 }
 
 .Politica{
-    position: static;
-    width: 82.05px;
-    height: 38px;
-    left: 0px;
-    top: 0px;
+position: static;
+width: 82.05px;
+height: 38px;
+left: 0px;
+top: 0px;
 
-    font-family: Inter;
-    font-style: normal;
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 37px;
+font-family: Inter;
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 37px;
 
 /* identical to box height, or 187% */
 

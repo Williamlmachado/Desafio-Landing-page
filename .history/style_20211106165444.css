@@ -105,48 +105,5 @@
 }
 
 .Faleconosco{
-    position: static;
-    width: 128.65px;
-    height: 38px;
-    left: 0px;
-    top: 0px;
-
-    font-family: Inter;
-    font-style: normal;
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 37px;
-
-    color: #252160;
-
-    flex: none;
-    order: 0;
-    flex-grow: 1;
-    margin: 7px 0px;
-}
-
-.Politica{
-    position: static;
-    width: 82.05px;
-    height: 38px;
-    left: 0px;
-    top: 0px;
-
-    font-family: Inter;
-    font-style: normal;
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 37px;
-
-/* identical to box height, or 187% */
-
-/* Primary */
-color: #252160;
-
-
-/* Inside Auto Layout */
-flex: none;
-order: 0;
-flex-grow: 0;
-margin: 9px 0px;
+    
 }

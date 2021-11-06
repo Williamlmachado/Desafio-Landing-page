@@ -55,21 +55,21 @@
     position: absolute;
     width: 1550px;
     height: 373px;
-    /* left: calc(50% - 1449px/2 + 4.5px); */
+    left: calc(50% - 1449px/2 + 4.5px);
     top: calc(50% - 373px/2 + 2603.5px);
 
     /* Branco */
     background: #FFFFFF;
 }
 
-.logoipsumtext{
-    
+.h2{
+    position: relative;
     left: 89.27%;
     right: 0.55%;
     top: 34.86%;
     bottom: 29.85%;
     /* Primary */
-    color: #252160;
+    background: #252160;
 }
 
 .imagemfooter{
@@ -78,75 +78,5 @@
     right: 72.51%;
     top: 18.75%;
     bottom: 18.75%;
-    color: #A5B4FC;
-}
-
-.localizaçao{
-    position: static;
-    width: 117.35px;
-    height: 31px;
-    left: 0px;
-    top: 0px;
-
-    font-family: Inter;
-    font-style: normal;
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 31px;
-
-    color: #252160;
-
-
-    /* Inside Auto Layout */
-    flex: none;
-    order: 0;
-    flex-grow: 0;
-    margin: 13px 0px;
-}
-
-.Faleconosco{
-    position: static;
-    width: 128.65px;
-    height: 38px;
-    left: 0px;
-    top: 0px;
-
-    font-family: Inter;
-    font-style: normal;
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 37px;
-
-    color: #252160;
-
-    flex: none;
-    order: 0;
-    flex-grow: 1;
-    margin: 7px 0px;
-}
-
-.Politica{
-    position: static;
-    width: 82.05px;
-    height: 38px;
-    left: 0px;
-    top: 0px;
-
-    font-family: Inter;
-    font-style: normal;
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 37px;
-
-/* identical to box height, or 187% */
-
-/* Primary */
-color: #252160;
-
-
-/* Inside Auto Layout */
-flex: none;
-order: 0;
-flex-grow: 0;
-margin: 9px 0px;
+    background: #A5B4FC;
 }

@@ -1,0 +1,90 @@
+.retangle1{
+    position: absolute;
+    width: 1440px;
+    height: 79px;
+    left: 0px;
+    top: 0px;
+    background: #FFFFFF;
+}
+
+.retangle3{
+    position: absolute;
+    width: 1440px;
+    height: 821px;
+    left: 0px;
+    top: 79px;
+    background: #252160;
+}
+
+.retangle8{
+    position: absolute;
+    width: 741.6px;
+    height: 645.98px;
+    left: -8px;
+    top: 276.68px;
+    background: #292663;
+    border-radius: 124px;
+    transform: rotate(-15.22deg);
+}
+
+.Button-buscar-imovel{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 15px 116px;
+    
+    position: absolute;
+    width: 380.41px;
+    height: 59.33px;
+    left: 0px;
+    top: 370.06px;
+    
+    /* Secundary */
+    background: #3AFFE5;
+    border-radius: 6px;
+}
+
+.button-queroSerAprovado{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 15px 116px 15px;
+
+    position: absolute;
+    width: 313px;
+    height: 60px;
+    left: 112px;
+    top: 1736px;
+
+    background: #252160;
+    box-shadow: -1.16333px 1.16333px 6.98px rgba(0, 0, 0, 0.26);
+    border-radius: 6px;
+}
+
+.retangle346{
+    position: absolute;
+    width: 1440px;
+    height: 954px;
+    left: 0px;
+    top: 1860px;
+
+    background: #F8F8F8;
+}
+
+.retangle335{
+
+}
+
+.home{
+    font-family: inter;
+    Font style: Bold;
+    Font size: 16px;
+    Line height: 22px;
+    Line height: 114%;
+    Align: Left Vertical
+    align Top;
+    Fill Color Style: Primary;
+    Fill: Solid #252160
+}
