@@ -84,26 +84,5 @@
 }
 
 .copyright{
- 
-}
-
-.retangle-1{
-    position: absolute;
-    width: 1440px;
-    height: 821px;
-    left: 0px;
-    top: 79px;
-
-    /* Primary */
-    background: #252160;
-}
-
-.spaceboy{
-    width: 50.02px;
-    height: 36.06px;
-   
-    flex: none;
-    order: 0;
-    flex-grow: 0;
-    margin: 0px 23px;
+    size: 2px;
 }

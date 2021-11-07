@@ -84,7 +84,11 @@
 }
 
 .copyright{
- 
+    Width: 20px;
+Height 20px;
+Top 2px;
+Left 2px;
+background: #7B7B7B;
 }
 
 .retangle-1{
@@ -101,7 +105,10 @@
 .spaceboy{
     width: 50.02px;
     height: 36.06px;
-   
+    left: 0px;
+    top: 0px;
+
+    /* Inside Auto Layout */
     flex: none;
     order: 0;
     flex-grow: 0;
