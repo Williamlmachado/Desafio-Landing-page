@@ -1,0 +1,178 @@
+.nav-button{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 15px 116px;
+
+    width: 133px;
+    height: 43px;
+    left: 1239px;
+    top: 18px;
+
+    /* Primary */
+    background: #252160;
+
+    /* Branco */
+    border: 1px solid #FFFFFF;
+    box-sizing: border-box;
+    border-radius: 6px;
+    color: #FFFFFF;
+}
+
+.nav-home{
+    position: absolute;
+    width: 46px;
+    height: 22px;
+    left: 5px;
+    top: 0px;
+
+    font-family: Inter;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 22px;
+
+    /* identical to box height, or 137% */
+
+    /* Primary */
+    color: #252160;
+}
+
+.navbrad-brand{
+    position: absolute;
+    left: 58.02%;
+    right: 35.2%;
+    top: 34.99%;
+    bottom: 29.03%;
+
+    /* Primary */
+    background: #252160;
+}
+
+#footer{
+    position: absolute;
+    width: 1550px;
+    height: 373px;
+    /* left: calc(50% - 1449px/2 + 4.5px); */
+    top: calc(50% - 373px/2 + 2603.5px);
+
+    /* Branco */
+    background: #FFFFFF;
+}
+
+.imagemfooter{
+    position: absolute;
+    left: 3.51%;
+    right: 72.51%;
+    top: 18.75%;
+    bottom: 18.75%;
+    color: #A5B4FC;
+}
+
+.linha{
+    margin-top: 150px;
+    position: absolute;
+    width: 1210px;
+    left: 135px;
+    border: 1px solid rgba(84, 84, 212, 0.34);
+}
+
+.col-md-5{
+    align-items: center;
+    align-content: center;
+}
+
+.copyright{
+ 
+}
+
+.retangle-1{
+    position: absolute;
+    width: 1440px;
+    height: 821px;
+    left: 0px;
+    top: 79px;
+
+    /* Primary */
+    background: #252160;
+}
+
+.spaceboy{
+    width: 50.02px;
+    height: 36.06px;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 0px 23px;
+}
+
+.retangle-2{
+    position: absolute;
+    width: 1440px;
+    height: 821px;
+    left: 0px;
+    top: 900px;
+    background: #ffff;
+}
+.retangle-3{
+    position: absolute;
+width: 1440px;
+height: 954px;
+left: 0px;
+top: 1860px;
+
+background: #F8F8F8
+}
+
+.escolas{
+    position: absolute;
+    width: 1270px;
+    height: 164px;
+    left: 66px;
+    top: 35px;
+}
+
+.adolescente{
+    position: relative;
+    width: 600px;
+    height: 738px;
+    left: 25px;
+    top: 105px;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 6px 0px;
+}
+
+.smallogos{
+    position: absolute;
+    width: 67.79px;
+    height: 403.63px;
+    left: 112px;
+    top: 275px;
+}
+
+.group12{
+    position: absolute;
+    width: 510.72px;
+    height: 141px;
+    left: 214px;
+    top: 400px;
+}
+
+.group13{
+    position: absolute;
+    width: 510.72px;
+    height: 131px;
+    left: 214px;
+    top: 500px;
+}
+
+.group14{
+    position: absolute;
+    width: 510.72px;
+    height: 131px;
+    left: 214px;
+    top:630px;
+}
