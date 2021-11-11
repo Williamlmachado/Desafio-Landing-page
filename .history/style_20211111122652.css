@@ -668,7 +668,7 @@ color: #252160;
     position: absolute;
     width: 200px;
     height: 22px;
-    left: 1270px;
+    left: 1220px;
     top: 306px;
 }
 
@@ -684,16 +684,3 @@ color: #252160;
     left: 1190px;
     top: 306px;
 }
-
-#carouselExampleCaptions{
-    position: absolute;
-    width: 370px;
-    height: 270px;
-    left: 140px;
-    top: 3850px;
-    /* Branco */
-    background: #FFFFFF;
-    box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.22);
-    border-radius: 10px;
-}
-

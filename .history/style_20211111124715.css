@@ -687,13 +687,21 @@ color: #252160;
 
 #carouselExampleCaptions{
     position: absolute;
-    width: 370px;
-    height: 270px;
-    left: 140px;
-    top: 3850px;
-    /* Branco */
-    background: #FFFFFF;
-    box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.22);
-    border-radius: 10px;
+width: 370px;
+height: 270px;
+left: 140px;
+top: 3850px;
 }
 
+.review1{
+    position: absolute;
+width: 370px;
+height: 270px;
+left: 135px;
+top: 4058px;
+
+/* Branco */
+background: #FFFFFF;
+box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.22);
+border-radius: 10px;
+}
