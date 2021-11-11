@@ -634,19 +634,11 @@ color: #252160;
     color: #252160;
 }
 
-#footer{
+.py-5{
     position: absolute;
     width: 1440px;
     height: 373px;
     left: 0;
     top: 5190px;
     background: #FFFFFF;
-}
-
-.pylogo{
-    position: absolute;
-    width: 203.06px;
-    height: 38px;
-    left: 145px;
-    top: 86px;
 }

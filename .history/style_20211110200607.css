@@ -607,46 +607,9 @@ color: #252160;
 }
 
 .depoimentos{
-    position: absolute;
-    width: 333.69px;
-    height: 31.9px;
-    left: 134px;
-    top: 1031px;
-    font-family: Nunito;
-    font-style: normal;
-    font-weight: bold;
-    font-size: 22px;
-    line-height: 31px;
-    color: #32B5FF;
+
 }
 
 .recomendados{
-    position: absolute;
-    width: 829px;
-    height: 95px;
-    left: 134px;
-    top: 1079px;
-    font-family: Nunito;
-    font-style: normal;
-    font-weight: bold;
-    font-size: 44.8277px;
-    line-height: 48px;
-    color: #252160;
-}
-
-#footer{
-    position: absolute;
-    width: 1440px;
-    height: 373px;
-    left: 0;
-    top: 5190px;
-    background: #FFFFFF;
-}
-
-.pylogo{
-    position: absolute;
-    width: 203.06px;
-    height: 38px;
-    left: 145px;
-    top: 86px;
+    
 }

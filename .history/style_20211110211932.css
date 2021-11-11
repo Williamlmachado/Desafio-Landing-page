@@ -634,19 +634,13 @@ color: #252160;
     color: #252160;
 }
 
-#footer{
+.py-5{
     position: absolute;
-    width: 1440px;
+    width: 1449px;
     height: 373px;
-    left: 0;
-    top: 5190px;
+    left: calc(50% - 1449px/2 + 4.5px);
+    top: calc(50% - 373px/2 + 2603.5px);
+    
+    /* Branco */
     background: #FFFFFF;
-}
-
-.pylogo{
-    position: absolute;
-    width: 203.06px;
-    height: 38px;
-    left: 145px;
-    top: 86px;
 }
